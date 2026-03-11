@@ -416,10 +416,6 @@ const cluesJSONString = `[
         "Important Phone Notification"
     ],
     [
-        "Terrible Boat Name",
-        "Clever Boat Name"
-    ],
-    [
         "Worst Reason to Break Up",
         "Valid Reason to Break Up"
     ],
@@ -430,10 +426,6 @@ const cluesJSONString = `[
     [
         "Terrible Airline",
         "Top-Rated Airline"
-    ],
-    [
-        "Worst Bathroom Graffiti",
-        "Profound Bathroom Graffiti"
     ],
     [
         "Annoying Concert Behavior",
@@ -454,6 +446,302 @@ const cluesJSONString = `[
     [
         "Terrible Wifi Network Name",
         "Clever Wifi Network Name"
+    ],
+    [
+        "Bad Advice",
+        "Great Advice"
+    ],
+    [
+        "Embarrassing Hobby",
+        "Impressive Hobby"
+    ],
+    [
+        "Worst Road Trip Snack",
+        "Best Road Trip Snack"
+    ],
+    [
+        "Terrible Nickname",
+        "Perfect Nickname"
+    ],
+    [
+        "Worst Weather",
+        "Perfect Weather"
+    ],
+    [
+        "Annoying Neighbor",
+        "Great Neighbor"
+    ],
+    [
+        "Worst Study Method",
+        "Effective Study Method"
+    ],
+    [
+        "Pointless Rule",
+        "Important Rule"
+    ],
+    [
+        "Terrible Secret",
+        "Juicy Secret"
+    ],
+    [
+        "Worst Morning Routine",
+        "Perfect Morning Routine"
+    ],
+    [
+        "Unreliable Person",
+        "Dependable Person"
+    ],
+    [
+        "Worst Way to Spend Sunday",
+        "Perfect Sunday Activity"
+    ],
+    [
+        "Terrible Fashion Trend",
+        "Stylish Fashion Trend"
+    ],
+    [
+        "Worst Phone Call",
+        "Great Phone Call"
+    ],
+    [
+        "Terrible Icebreaker",
+        "Great Icebreaker"
+    ],
+    [
+        "Worst Study Spot",
+        "Perfect Study Spot"
+    ],
+    [
+        "Bad Travel Companion",
+        "Great Travel Companion"
+    ],
+    [
+        "Worst Late Night Snack",
+        "Perfect Late Night Snack"
+    ],
+    [
+        "Terrible Restaurant",
+        "Great Restaurant"
+    ],
+    [
+        "Worst Bedtime",
+        "Perfect Bedtime"
+    ],
+    [
+        "Totally Cursed",
+        "Blessed"
+    ],
+    [
+        "Should Not Exist",
+        "Glad It Exists"
+    ],
+    [
+        "Bad Thing to Lick",
+        "Good Thing to Lick"
+    ],
+    [
+        "Probably Haunted",
+        "Definitely Safe"
+    ],
+    [
+        "Weird Animal",
+        "Extremely Weird Animal"
+    ],
+    [
+        "Bad Thing to Find in Soup",
+        "Great Thing to Find in Soup"
+    ],
+    [
+        "Suspiciously Wet",
+        "Suspiciously Dry"
+    ],
+    [
+        "Bad Superhero Sidekick",
+        "Perfect Superhero Sidekick"
+    ],
+    [
+        "Bad Thing to Hear at Night",
+        "Good Thing to Hear at Night"
+    ],
+    [
+        "Should Be Illegal",
+        "Totally Acceptable"
+    ],
+    [
+        "Bad Thing to Whisper",
+        "Good Thing to Whisper"
+    ],
+    [
+        "Creepy Smile",
+        "Friendly Smile"
+    ],
+    [
+        "Bad Thing to Keep in Your Pocket",
+        "Good Thing to Keep in Your Pocket"
+    ],
+    [
+        "Terrible Animal to Ride",
+        "Great Animal to Ride"
+    ],
+    [
+        "Bad Thing to Wake Up Next To",
+        "Nice Thing to Wake Up Next To"
+    ],
+    [
+        "Worst Thing to Step On Barefoot",
+        "Fine Thing to Step On Barefoot"
+    ],
+    [
+        "Bad Thing to Smell Like",
+        "Good Thing to Smell Like"
+    ],
+    [
+        "Bad Thing to Fall From the Sky",
+        "Cool Thing to Fall From the Sky"
+    ],
+    [
+        "Bad Thing to Find Under Your Bed",
+        "Harmless Thing Under Your Bed"
+    ],
+    [
+        "Terrible Pet",
+        "Great Pet"
+    ],
+    [
+        "Bad Thing to Put in Coffee",
+        "Great Thing to Put in Coffee"
+    ],
+    [
+        "Bad Thing to Say to a Police Officer",
+        "Reasonable Thing to Say to a Police Officer"
+    ],
+    [
+        "Bad Thing to Bring to a Wedding",
+        "Good Thing to Bring to a Wedding"
+    ],
+    [
+        "Bad Thing to Discover in Your Shoe",
+        "Fine Thing to Discover in Your Shoe"
+    ],
+    [
+        "Bad Thing to Eat at 3 AM",
+        "Great Thing to Eat at 3 AM"
+    ],
+    [
+        "Traditional Family Values",
+        "Progressive Family Values"
+    ],
+    [
+        "Strict Law Enforcement",
+        "Lenient Law Enforcement"
+    ],
+    [
+        "Small Government",
+        "Large Government"
+    ],
+    [
+        "Closed Borders",
+        "Open Borders"
+    ],
+    [
+        "Free Market",
+        "Government-Regulated Economy"
+    ],
+    [
+        "Individual Responsibility",
+        "Collective Responsibility"
+    ],
+    [
+        "Preserve Traditions",
+        "Embrace Social Change"
+    ],
+    [
+        "Strong Military",
+        "Diplomacy First"
+    ],
+    [
+        "Cultural Assimilation",
+        "Multiculturalism"
+    ],
+    [
+        "Low Taxes",
+        "High Taxes for Public Services"
+    ],
+    [
+        "Local Control",
+        "Centralized Government"
+    ],
+    [
+        "Strict Immigration Policy",
+        "Permissive Immigration Policy"
+    ],
+    [
+        "Personal Freedom",
+        "Government Protection"
+    ],
+    [
+        "Terrible First Kiss",
+        "Amazing First Kiss"
+    ],
+    [
+        "Awkward Date",
+        "Perfect Date"
+    ],
+    [
+        "No Chemistry",
+        "Instant Chemistry"
+    ],
+    [
+        "Terrible Dating Advice",
+        "Great Dating Advice"
+    ],
+    [
+        "Bad Wingman",
+        "Great Wingman"
+    ],
+    [
+        "Awkward Hug",
+        "Perfect Hug"
+    ],
+    [
+        "Cringe Text Message",
+        "Perfect Text Message"
+    ],
+    [
+        "Bad Tinder Bio",
+        "Great Tinder Bio"
+    ],
+    [
+        "Friend Zone",
+        "Soulmate Zone"
+    ],
+    [
+        "Terrible Love Confession",
+        "Perfect Love Confession"
+    ],
+    [
+        "Bad Couple",
+        "Power Couple"
+    ],
+    [
+        "Jealous Partner",
+        "Secure Partner"
+    ],
+    [
+        "Bad Cuddler",
+        "Great Cuddler"
+    ],
+    [
+        "Bad Romantic Gesture",
+        "Romantic Masterpiece"
+    ],
+    [
+        "Terrible Anniversary Gift",
+        "Perfect Anniversary Gift"
+    ],
+    [
+        "Bad Long-Distance Relationship",
+        "Great Long-Distance Relationship"
     ]
 ]`;
 
