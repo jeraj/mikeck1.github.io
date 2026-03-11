@@ -742,6 +742,366 @@ const cluesJSONString = `[
     [
         "Bad Long-Distance Relationship",
         "Great Long-Distance Relationship"
+    ],
+    [
+        "Bad Lie",
+        "Good Lie"
+    ],
+    [
+        "Harmless Conspiracy",
+        "Dangerous Conspiracy"
+    ],
+    [
+        "Bad Thing to Forget",
+        "Fine Thing to Forget"
+    ],
+    [
+        "Terrible Advice from a Parent",
+        "Great Advice from a Parent"
+    ],
+    [
+        "Bad Thing to Say on a First Date",
+        "Great Thing to Say on a First Date"
+    ],
+    [
+        "Unreliable Technology",
+        "Reliable Technology"
+    ],
+    [
+        "Bad Celebrity",
+        "Beloved Celebrity"
+    ],
+    [
+        "Unconvincing Alibi",
+        "Perfect Alibi"
+    ],
+    [
+        "Bad Party Guest",
+        "Perfect Party Guest"
+    ],
+    [
+        "Worst Place to Fall Asleep",
+        "Best Place to Fall Asleep"
+    ],
+    [
+        "Bad Gift for a Stranger",
+        "Good Gift for a Stranger"
+    ],
+    [
+        "Bad Thing to Hear from Your Doctor",
+        "Good Thing to Hear from Your Doctor"
+    ],
+    [
+        "Bad Thing to Shout",
+        "Good Thing to Shout"
+    ],
+    [
+        "Bad Public Apology",
+        "Sincere Public Apology"
+    ],
+    [
+        "Worst Way to Spend Money",
+        "Best Way to Spend Money"
+    ],
+    [
+        "Bad Person to Sit Next To on a Plane",
+        "Great Person to Sit Next To on a Plane"
+    ],
+    [
+        "Unsettling Dream",
+        "Pleasant Dream"
+    ],
+    [
+        "Worst Thing to See in the News",
+        "Best Thing to See in the News"
+    ],
+    [
+        "Bad Villain Plan",
+        "Brilliant Villain Plan"
+    ],
+    [
+        "Bad Internet Comment",
+        "Insightful Internet Comment"
+    ],
+    [
+        "Worst Way to Wake Up",
+        "Best Way to Wake Up"
+    ],
+    [
+        "Bad Excuse for Being Late",
+        "Reasonable Excuse for Being Late"
+    ],
+    [
+        "Bad Thing to Keep Secret",
+        "Good Thing to Keep Secret"
+    ],
+    [
+        "Worst Thing to Drop",
+        "Fine Thing to Drop"
+    ],
+    [
+        "Bad Thing to Bring on a Road Trip",
+        "Great Thing to Bring on a Road Trip"
+    ],
+    [
+        "Worst Town in Slovenia",
+        "Best Town in Slovenia"
+    ],
+    [
+        "Worst Slovenian Food",
+        "Best Slovenian Food"
+    ],
+    [
+        "Worst Slovenian Tourist Trap",
+        "Must-See Slovenian Attraction"
+    ],
+    [
+        "Worst Place to Live in Slovenia",
+        "Best Place to Live in Slovenia"
+    ],
+    [
+        "Worst Slovenian Road Trip",
+        "Perfect Slovenian Road Trip"
+    ],
+    [
+        "Worst Slovenian Mountain",
+        "Best Slovenian Mountain"
+    ],
+    [
+        "Worst Slovenian Festival",
+        "Best Slovenian Festival"
+    ],
+    [
+        "Worst Slovenian Day Trip",
+        "Perfect Slovenian Day Trip"
+    ],
+    [
+        "Worst Slovenian Restaurant",
+        "Best Slovenian Restaurant"
+    ],
+    [
+        "Worst Slovenian Lake",
+        "Most Beautiful Slovenian Lake"
+    ],
+    [
+        "Worst Slovenian Ski Resort",
+        "Best Slovenian Ski Resort"
+    ],
+    [
+        "Worst Slovenian Hiking Trail",
+        "Best Slovenian Hiking Trail"
+    ],
+    [
+        "Worst Slovenian Tradition",
+        "Best Slovenian Tradition"
+    ],
+    [
+        "Worst Slovenian Dessert",
+        "Best Slovenian Dessert"
+    ],
+    [
+        "Worst Slovenian Weekend Trip",
+        "Best Slovenian Weekend Trip"
+    ],
+    [
+        "Far Left Politics",
+        "Far Right Politics"
+    ],
+    [
+        "Worst Thing to Step On in the Dark",
+        "Best Thing to Step On in the Dark"
+    ],
+    [
+        "Bad Thing to Hear From Your Dentist",
+        "Good Thing to Hear From Your Dentist"
+    ],
+    [
+        "Worst Thing to Yell in Public",
+        "Best Thing to Yell in Public"
+    ],
+    [
+        "Bad Thing to Accidentally Text Your Boss",
+        "Fine Thing to Accidentally Text Your Boss"
+    ],
+    [
+        "Cringe",
+        "Iconic"
+    ],
+    [
+        "NPC Energy",
+        "Main Character Energy"
+    ],
+    [
+        "Mid",
+        "Legendary"
+    ],
+    [
+        "Touch Grass",
+        "Chronically Online"
+    ],
+    [
+        "Worst Thing to Google",
+        "Best Thing to Google"
+    ],
+    [
+        "Bad Thing to Post Online",
+        "Good Thing to Post Online"
+    ],
+    [
+        "Worst Roommate",
+        "Best Roommate"
+    ],
+    [
+        "Bad Thing to Keep in Your Car",
+        "Good Thing to Keep in Your Car"
+    ],
+    [
+        "Worst Thing to Hear From a Pilot",
+        "Best Thing to Hear From a Pilot"
+    ],
+    [
+        "Bad Person to Invite to a Party",
+        "Great Person to Invite to a Party"
+    ],
+    [
+        "Worst Thing to Lose",
+        "Fine Thing to Lose"
+    ],
+    [
+        "Bad Thing to Wear to a Wedding",
+        "Perfect Thing to Wear to a Wedding"
+    ],
+    [
+        "Worst Place to Get Stuck",
+        "Best Place to Get Stuck"
+    ],
+    [
+        "Bad Thing to Hear in an Elevator",
+        "Good Thing to Hear in an Elevator"
+    ],
+    [
+        "Worst Thing to Spill on Yourself",
+        "Fine Thing to Spill on Yourself"
+    ],
+    [
+        "Bad Person to Be Stuck With on a Desert Island",
+        "Great Person to Be Stuck With on a Desert Island"
+    ],
+    [
+        "Worst Thing to Find in Your Bed",
+        "Best Thing to Find in Your Bed"
+    ],
+    [
+        "Bad Thing to Say in a Job Interview",
+        "Great Thing to Say in a Job Interview"
+    ],
+    [
+        "Worst Thing to Forget at Home",
+        "Fine Thing to Forget at Home"
+    ],
+    [
+        "Bad Thing to Bring to a Potluck",
+        "Great Thing to Bring to a Potluck"
+    ],
+    [
+        "Worst Thing to Hear From Your Neighbor",
+        "Best Thing to Hear From Your Neighbor"
+    ],
+    [
+        "Bad Thing to Discover in Your Fridge",
+        "Good Thing to Discover in Your Fridge"
+    ],
+    [
+        "Worst Thing to Trip Over",
+        "Fine Thing to Trip Over"
+    ],
+    [
+        "Bad Person to Sit Next To at a Wedding",
+        "Great Person to Sit Next To at a Wedding"
+    ],
+    [
+        "Worst Thing to Break",
+        "Fine Thing to Break"
+    ],
+    [
+        "Bad Thing to Say at a Funeral",
+        "Good Thing to Say at a Funeral"
+    ],
+    [
+        "Worst Thing to Bring on a Camping Trip",
+        "Great Thing to Bring on a Camping Trip"
+    ],
+    [
+        "Bad Thing to Hear From Your Mechanic",
+        "Good Thing to Hear From Your Mechanic"
+    ],
+    [
+        "Worst Thing to Step In",
+        "Fine Thing to Step In"
+    ],
+    [
+        "Bad Thing to Receive in the Mail",
+        "Good Thing to Receive in the Mail"
+    ],
+    [
+        "Worst Thing to Hear From Your Teacher",
+        "Best Thing to Hear From Your Teacher"
+    ],
+    [
+        "Bad Thing to Discover in Your Pocket",
+        "Good Thing to Discover in Your Pocket"
+    ],
+    [
+        "Worst Thing to Drop in Water",
+        "Fine Thing to Drop in Water"
+    ],
+    [
+        "Bad Thing to Hear From Your Landlord",
+        "Good Thing to Hear From Your Landlord"
+    ],
+    [
+        "Worst Thing to Smell in Your House",
+        "Best Thing to Smell in Your House"
+    ],
+    [
+        "Bad Thing to Hear From a Friend",
+        "Good Thing to Hear From a Friend"
+    ],
+    [
+        "Worst Thing to Lose at the Airport",
+        "Fine Thing to Lose at the Airport"
+    ],
+    [
+        "Bad Thing to Hear During Surgery",
+        "Good Thing to Hear During Surgery"
+    ],
+    [
+        "Worst Thing to Find in Your Shoe",
+        "Fine Thing to Find in Your Shoe"
+    ],
+    [
+        "Bad Thing to Hear From Your Boss",
+        "Good Thing to Hear From Your Boss"
+    ],
+    [
+        "Worst Thing to Spill in Your Car",
+        "Fine Thing to Spill in Your Car"
+    ],
+    [
+        "Bad Thing to Hear From Your Dentist",
+        "Good Thing to Hear From Your Dentist"
+    ],
+    [
+        "Worst Thing to Find in Your Bag",
+        "Fine Thing to Find in Your Bag"
+    ],
+    [
+        "Worst Position in Bed",
+        "Best Position in Bed"
+    ],
+    [
+        "Worst Slovenian Accent",
+        "Best Slovenian Accent"
     ]
 ]`;
 
